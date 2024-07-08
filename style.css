@@ -212,6 +212,7 @@ html {
   background-color: var(--accent-color);
   border-radius: 1rem;
   border-left: 1rem solid var(--primary-color);
+  box-shadow: var(--accent-color-2) 0px 0px 0px 1px;
   padding: 2.4rem;
 
   display: flex;
@@ -245,6 +246,7 @@ html {
   flex: 1;
 
   background-color: var(--accent-color);
+  box-shadow: var(--accent-color-2) 0px 0px 0px 1px;
   border-radius: 1rem;
   padding: 3rem;
 
@@ -275,6 +277,7 @@ html {
 
 .trending-container {
   background-color: var(--accent-color);
+  box-shadow: var(--accent-color-2) 0px 0px 0px 1px;
   border-radius: 1rem;
   padding: 1.6rem;
 
